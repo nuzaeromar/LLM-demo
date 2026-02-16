@@ -15,9 +15,9 @@ with clear, step-by-step preprocessing, training, and evaluation workflows.
 
 ### 1️⃣ Clone the repository
 
-```bash
 git clone https://github.com/nuzaeromar/LLM-demo.git
 cd LLM-demo
 
 ### 2️⃣ Install dependencies
+
 pip install transformers datasets accelerate torch
