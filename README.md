@@ -39,6 +39,6 @@ Open the notebook locally using Jupyter, VS Code, or Google Colab, and follow th
 ---
 
 ## 👤 Author
-Nuzaer Omar\\
-PhD Candidate, Computer Science\\
+Nuzaer Omar  
+PhD Candidate, Computer Science  
 Missouri University of Science & Technology
