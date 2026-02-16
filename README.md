@@ -33,6 +33,7 @@ huggingface-cli login
 ```
 
 3️⃣ Run the notebook
+
 Open the notebook locally using Jupyter, VS Code, or Google Colab, and follow the cells step by step.
 
 👤 Author
