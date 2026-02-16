@@ -15,9 +15,27 @@ with clear, step-by-step preprocessing, training, and evaluation workflows.
 
 ### 1️⃣ Clone the repository
 
+```bash
 git clone https://github.com/nuzaeromar/LLM-demo.git
 cd LLM-demo
+```
 
 ### 2️⃣ Install dependencies
 
-pip install transformers datasets accelerate torch
+```bash
+pip install transformers datasets  
+```
+
+Optional (for pushing models to the Hugging Face Hub):
+```bash
+pip install huggingface_hub
+huggingface-cli login
+```
+
+3️⃣ Run the notebook
+Open the notebook locally using Jupyter, VS Code, or Google Colab, and follow the cells step by step.
+
+👤 Author
+Nuzaer Omar
+PhD Candidate, Computer Science
+Missouri University of Science & Technology
