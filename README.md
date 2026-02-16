@@ -36,7 +36,9 @@ huggingface-cli login
 
 Open the notebook locally using Jupyter, VS Code, or Google Colab, and follow the cells step by step.
 
-👤 Author
-Nuzaer Omar
-PhD Candidate, Computer Science
+---
+
+## 👤 Author
+Nuzaer Omar\\
+PhD Candidate, Computer Science\\
 Missouri University of Science & Technology
